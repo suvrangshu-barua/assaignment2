@@ -6,8 +6,8 @@ public class matrix
 
     public static void main (String args[])
     {
-        int A[][] = {{1, 2, 4}, {2, 5, 10}, {1, 5, 7}};
-        int B[][] = {{10, 8, 1}, {2, 6, 7}, {3, 1, 5}};
+        int A[][] = {{8, 2, 5}, {2, 2, 1}, {1, 4, 7}};
+        int B[][] = {{11, 2, 1}, {1, 8, 7}, {3, 1, 5}};
         int C[][] = new int [3][3];
         int i, j;
         int ThreadCount = 0;
